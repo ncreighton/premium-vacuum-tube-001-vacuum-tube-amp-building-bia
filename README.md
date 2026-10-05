@@ -1,0 +1,2 @@
+# premium-vacuum-tube-001-vacuum-tube-amp-building-bia
+Stop losing track of tube specifications, bias settings, and build progress mid-project — this Notion template turns your amp bench into a structured craft hub.  The Vacuum Tube Amp Building &amp; Bias Set Craft Hub solves the chaos of scattered notes and forgotten bias values by giving you a single, searchable workspace. It streamlines the entire buil
